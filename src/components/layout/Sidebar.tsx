@@ -189,7 +189,7 @@ const Sidebar = ({ onLinkClick }: SidebarProps) => {
         {/* Resume Download Button */}
         <div className="resume-download mt-auto mb-8">
   <a 
-    href="public\KANKANABOINA_HEMANTH_RESUME.pdf" 
+    href="KANKANABOINA_HEMANTH_RESUME.pdf" 
     download 
     className="w-full"
   >
