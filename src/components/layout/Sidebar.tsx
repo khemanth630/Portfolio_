@@ -48,7 +48,7 @@ const Sidebar = ({ onLinkClick }: SidebarProps) => {
   <a href="https://github.com/khemanth630" target="_blank" rel="noopener noreferrer" className="text-sidebar-foreground/70 hover:text-sidebar-primary transform transition-all duration-300 hover:-translate-y-1">
     <Github size={22} className="hover:animate-pulse" />
   </a>
-  <a href="linkedin.com/in/hemanth-kankanaboina-4b8128303/" target="_blank" rel="noopener noreferrer" className="text-sidebar-foreground/70 hover:text-sidebar-primary transform transition-all duration-300 hover:-translate-y-1">
+  <a href="https://www.linkedin.com/in/hemanth-kankanaboina-4b8128303/" target="_blank" rel="noopener noreferrer" className="text-sidebar-foreground/70 hover:text-sidebar-primary transform transition-all duration-300 hover:-translate-y-1">
     <Linkedin size={22} className="hover:animate-pulse" />
   </a>
   <a href="https://leetcode.com/u/Hemanth0620/" target="_blank" rel="noopener noreferrer" className="text-sidebar-foreground/70 hover:text-sidebar-primary transform transition-all duration-300 hover:-translate-y-1">
