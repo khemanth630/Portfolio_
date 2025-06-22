@@ -3,8 +3,8 @@ import { useInView } from "react-intersection-observer";
 
 // Define skills by category
 const skillsData = {
-  programming: ["Java", "DSA", "Python", "JavaScript","C","C++"],
-  technologies: ["HTML", "CSS","React.js"  ,"MongoDB", "Node.js" , "Express.js"],
+  programming: ["Java", "DSA", "Python", "JavaScript","C","C++","SQL"],
+  technologies: ["Spark","hadoop","Kafka","HTML", "CSS","React.js"  ,"MongoDB", "Node.js" , "Express.js","cisco packet tracer"],
   tools: ["VS Code", "Canva", "Git & GitHub", "Prompt Engineering"]
 };
 
