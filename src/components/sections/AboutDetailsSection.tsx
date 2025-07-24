@@ -33,7 +33,7 @@ const AboutDetailsSection = () => {
               <div className="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-end">
                 <div className="p-6 text-white">
                   <h3 className="text-xl font-bold mb-1">K Hemanth</h3>
-                  <p className="text-sm">AI developer ,AI engineer</p>
+                  <p className="text-sm">Software development engineer</p>
                 </div>
               </div>
             </div>
@@ -44,34 +44,35 @@ const AboutDetailsSection = () => {
             <div className="space-y-6">
               {/* Personal Information Card */}
               <Card className="shadow-md border-primary/10 hover:border-primary/30 transition-all duration-300">
-                <CardHeader className="pb-2">
-                  <div className="flex items-center gap-2">
-                    <User className="text-primary h-5 w-5" />
-                    <CardTitle>Personal Information</CardTitle>
-                  </div>
-                  <CardDescription>My personal details</CardDescription>
-                </CardHeader>
-                <CardContent>
-                  <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-                    <div className="space-y-1">
-                      <p className="text-sm font-medium">Birthday</p>
-                      <p className="text-sm text-muted-foreground">20 june 2005</p>
-                    </div>
-                    <div className="space-y-1">
-                      <p className="text-sm font-medium">Phone</p>
-                      <p className="text-sm text-muted-foreground">+91 9490509324</p>
-                    </div>
-                    <div className="space-y-1">
-                      <p className="text-sm font-medium">Email</p>
-                      <p className="text-sm text-muted-foreground">hemanth630209@gmail.com</p>
-                    </div>
-                    <div className="space-y-1">
-                      <p className="text-sm font-medium">City</p>
-                      <p className="text-sm text-muted-foreground">bengaluru,karnataka, India</p>
-                    </div>
-                  </div>
-                </CardContent>
-              </Card>
+  <CardHeader className="pb-2">
+    <div className="flex items-center gap-2">
+      <User className="text-primary h-5 w-5" />
+      <CardTitle>Personal Information</CardTitle>
+    </div>
+    <CardDescription>My personal details</CardDescription>
+  </CardHeader>
+  <CardContent>
+    <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+      <div className="space-y-1">
+        <p className="text-sm font-medium">Birthday</p>
+        <p className="text-sm text-muted-foreground">20 June 2005</p>
+      </div>
+      <div className="space-y-1">
+        <p className="text-sm font-medium">Phone</p>
+        <p className="text-sm text-muted-foreground">+91 9490509324</p>
+      </div>
+      <div className="space-y-1 sm:col-span-2 break-words">
+        <p className="text-sm font-medium">Email</p>
+        <p className="text-sm text-muted-foreground">hemanth630209@gmail.com</p>
+      </div>
+      <div className="space-y-1 sm:col-span-2">
+        <p className="text-sm font-medium">City</p>
+        <p className="text-sm text-muted-foreground">Bengaluru, Karnataka, India</p>
+      </div>
+    </div>
+  </CardContent>
+</Card>
+
               
               {/* Professional Information Card */}
               <Card className="shadow-md border-primary/10 hover:border-primary/30 transition-all duration-300">
