@@ -49,17 +49,18 @@ const AboutSection = () => {
         </h2>
         
         <div className="space-y-4 text-muted-foreground">
-  <p className="lead text-lg">
-    I’m an AI Developer and AI Engineer passionate about building intelligent systems using machine learning, deep learning, and generative models.
-  </p>
+ <p className="lead text-lg">
+  I’m a Software Development Engineer driven by a passion for building robust, scalable applications that solve real-world problems.
+</p>
 
-  <p>
-    With a strong foundation in computer science, I specialize in developing scalable and efficient AI solutions. I also work with full-stack technologies when needed to integrate and deploy intelligent applications seamlessly.
-  </p>
+<p>
+  With a solid background in computer science, I specialize in designing and developing end-to-end software solutions using modern development practices and full-stack technologies. I enjoy building systems that are not only functional but also optimized for performance and maintainability.
+</p>
 
-  <p>
-    Currently, my focus is on advancing skills in generative AI, computer vision, and natural language processing to create impactful, real-world solutions.
-  </p>
+<p>
+  Currently, I’m focused on enhancing my skills in cloud-native development, system design, and distributed systems, while also exploring the integration of AI components to build smarter and more adaptive applications.
+</p>
+
 </div>
 
         
