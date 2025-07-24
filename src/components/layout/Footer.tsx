@@ -12,7 +12,7 @@ const Footer = () => {
           <div className="col-span-1 md:col-span-2">
             <h3 className="text-xl font-bold mb-4 text-foreground">K Hemanth</h3>
             <p className="text-muted-foreground mb-4 max-w-md">
-              A passionate AI,Web Developer and Computer Science enthusiast with skills in  development 
+              A passionate Software Development engineer and Computer Science enthusiast with skills in  development 
               and creating intuitive digital experiences.
             </p>
           <div className="flex space-x-4">
