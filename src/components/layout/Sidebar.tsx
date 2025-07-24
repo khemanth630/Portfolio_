@@ -38,7 +38,7 @@ const Sidebar = ({ onLinkClick }: SidebarProps) => {
             <AvatarFallback className="text-2xl font-display">Hemanth</AvatarFallback>
           </Avatar>
           <h1 className="font-playfair text-2xl font-semibold text-sidebar-foreground mt-3">K Hemanth</h1>
-          <p className="text-sidebar-foreground/70 mt-1 font-poppins">AI developer</p>
+          <p className="text-sidebar-foreground/70 mt-1 font-poppins">Software development engineer</p>
           
           {/* Social Media Icons */}
         <div className="flex space-x-3 mt-4">
