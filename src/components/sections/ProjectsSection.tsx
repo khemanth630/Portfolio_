@@ -32,7 +32,7 @@ const projects = [
     description: "Built a neural network-based system for real-time sleep apnea detection using ECG and snoring data, achieving 90% accuracy and outperforming traditional polysomnography methods.",
     image: "sleep_apnea.webp",
     tags: ["python(Neural network)"],
-    githubUrl: "",
+    githubUrl: "https://github.com/khemanth630/Sleep_apnea_detection.git",
   },
 ,{
   title: "Weather App",
@@ -47,14 +47,14 @@ const projects = [
     description: "Developed a secure, real-time online quiz app using Python, socket programming, and SSL, with multi-device support and efficient feedback handling.",
     image: "quiz.jpg",
     tags: ["python ", "SSL", "Socket programming"],
-    githubUrl: "",
+    githubUrl: "https://github.com/khemanth630/Online_quiz_application.git",
   },
     {
     title: "Air line management",
     description: "Built a MySQL-based airline management system enabling efficient flight search, secure ticket booking, cancellations, and real-time access to flight and passenger data.",
     image: "flight.jpeg",
     tags: ["Apache netbeans ", "SQL", "java"],
-    githubUrl: "",
+    githubUrl: "https://github.com/khemanth630/airline_management.git",
   }
 ];
 
