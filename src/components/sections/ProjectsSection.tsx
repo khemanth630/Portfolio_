@@ -25,7 +25,7 @@ const projects = [
     description: "Developed a high-performance emoji streaming platform using Apache Spark and Kafka, achieving 95% accuracy and supporting 85% of connected devices for seamless multi-device interaction",
     image: "image.jpeg",
     tags: ["spark", "Python", "Kafka"],
-    githubUrl: "https://github.com/Cloud-Computing-Big-Data/EC-Team-25-emostream-concurrent-emoji-broadcast-over-event-driven-architecture.git",
+    githubUrl: "https://github.com/khemanth630/emo-streams.git",
   },
   {
     title: "Sleep apnea detection(working)",
